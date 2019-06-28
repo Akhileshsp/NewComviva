@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsdvfsdvfdv
 efv
 efvef
@@ -5,3 +6,13 @@ dbdetgefd
 vfe
 vreg
 esna
+=======
+cdcjcsd
+sdvfdbfd
+bfd
+bdf
+be
+fdn
+tgn
+
+>>>>>>> 211e6544520cdb0e2029a46edeeb1ebe9be4d2e0
